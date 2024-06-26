@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "Untitled-3_0007_next-level.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 636,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 636,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 636,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-3_0001_CLAIM.png": {
+      "frame": {
+        "x": 642,
+        "y": 2,
+        "w": 252,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 252,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 252,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-3_0003_Group-51.png": {
+      "frame": {
+        "x": 898,
+        "y": 2,
+        "w": 116,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 116,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-3_0005_red-back.png": {
+      "frame": {
+        "x": 642,
+        "y": 80,
+        "w": 216,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-3_0004_Group-57.png": {
+      "frame": {
+        "x": 862,
+        "y": 117,
+        "w": 137,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 137,
+        "h": 131
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-3_0000_red-block.png": {
+      "frame": {
+        "x": 2,
+        "y": 174,
+        "w": 414,
+        "h": 473
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 414,
+        "h": 473
+      },
+      "sourceSize": {
+        "w": 414,
+        "h": 473
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-3_0006_cross.png": {
+      "frame": {
+        "x": 420,
+        "y": 174,
+        "w": 216,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-3_0002_Rounded-Rectangle-989.png": {
+      "frame": {
+        "x": 420,
+        "y": 281,
+        "w": 411,
+        "h": 477
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 411,
+        "h": 477
+      },
+      "sourceSize": {
+        "w": 411,
+        "h": 477
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "level complete.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

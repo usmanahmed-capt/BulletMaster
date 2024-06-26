@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "Untitled-9_0002_rewarded-video.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 257,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 289
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-9_0001_bullet-button-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 295,
+        "w": 341,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 341,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 341,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-9_0003_Group-62.png": {
+      "frame": {
+        "x": 263,
+        "y": 2,
+        "w": 451,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 451,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 451,
+        "h": 137
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-9_0000_REWARDED.png": {
+      "frame": {
+        "x": 263,
+        "y": 143,
+        "w": 185,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "out of bullet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": 1
+  }
+}

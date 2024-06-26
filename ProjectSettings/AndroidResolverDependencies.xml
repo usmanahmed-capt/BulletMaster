@@ -1,0 +1,53 @@
+<dependencies>
+  <packages>
+    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>com.android.support:customtabs:28.+</package>
+    <package>com.android.support:recyclerview-v7:28.+</package>
+    <package>com.applovin.mediation:bidmachine-adapter:2.5.0.0</package>
+    <package>com.applovin.mediation:bytedance-adapter:5.7.0.3.0</package>
+    <package>com.applovin.mediation:facebook-adapter:[6.16.0.2]</package>
+    <package>com.applovin.mediation:fyber-adapter:8.2.6.0</package>
+    <package>com.applovin.mediation:google-adapter:[22.6.0.0]</package>
+    <package>com.applovin.mediation:google-ad-manager-adapter:[22.6.0.0]</package>
+    <package>com.applovin.mediation:inmobi-adapter:10.6.7.0</package>
+    <package>com.applovin.mediation:ironsource-adapter:7.7.0.0.0</package>
+    <package>com.applovin.mediation:mintegral-adapter:16.6.34.0</package>
+    <package>com.applovin.mediation:unityads-adapter:4.9.2.1</package>
+    <package>com.applovin.mediation:vungle-adapter:7.1.0.0</package>
+    <package>com.applovin.mediation:yandex-adapter:6.4.0.0</package>
+    <package>com.applovin:applovin-sdk:12.1.0</package>
+    <package>com.google.android.gms:play-services-ads:22.6.0</package>
+    <package>com.google.android.gms:play-services-appset:16.0.2</package>
+    <package>com.google.android.gms:play-services-base:18.3.0</package>
+    <package>com.google.android.instantapps:instantapps:1.1.0</package>
+    <package>com.google.android.ump:user-messaging-platform:2.1.0</package>
+    <package>com.google.firebase:firebase-analytics:21.5.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:11.7.0</package>
+    <package>com.google.firebase:firebase-app-unity:11.7.0</package>
+    <package>com.google.firebase:firebase-common:20.4.2</package>
+    <package>com.squareup.picasso:picasso:2.71828</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/11.7.0/firebase-analytics-unity-11.7.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/11.7.0/firebase-analytics-unity-11.7.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.7.0/firebase-app-unity-11.7.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/11.7.0/firebase-app-unity-11.7.0.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.bbg.superhero.bullet.shooter.spy.puzzle.games" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useFullCustomMavenRepoPathWhenExport" value="True" />
+    <setting name="useFullCustomMavenRepoPathWhenNotExport" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

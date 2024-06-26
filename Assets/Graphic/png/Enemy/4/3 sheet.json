@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "Untitled-27_0002_body.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 327,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 327,
+        "h": 360
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-27_0004_left-leg.png": {
+      "frame": {
+        "x": 333,
+        "y": 2,
+        "w": 86,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 260
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-27_0001_right-hand.png": {
+      "frame": {
+        "x": 423,
+        "y": 2,
+        "w": 66,
+        "h": 319
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 319
+      },
+      "sourceSize": {
+        "w": 66,
+        "h": 319
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-27_0000_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 366,
+        "w": 214,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 236
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "3 sheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

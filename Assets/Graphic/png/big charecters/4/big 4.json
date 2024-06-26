@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "Untitled-18_0005_dead.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 620,
+        "h": 828
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 620,
+        "h": 828
+      },
+      "sourceSize": {
+        "w": 620,
+        "h": 828
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0006_face.png": {
+      "frame": {
+        "x": 626,
+        "y": 2,
+        "w": 620,
+        "h": 802
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 620,
+        "h": 802
+      },
+      "sourceSize": {
+        "w": 620,
+        "h": 802
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0004_body.png": {
+      "frame": {
+        "x": 1250,
+        "y": 2,
+        "w": 354,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 354,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 354,
+        "h": 399
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0003_right.png": {
+      "frame": {
+        "x": 1608,
+        "y": 2,
+        "w": 233,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 289
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0001_left-leg.png": {
+      "frame": {
+        "x": 1845,
+        "y": 2,
+        "w": 170,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 233
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0002_right-leg.png": {
+      "frame": {
+        "x": 1845,
+        "y": 239,
+        "w": 156,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 247
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-18_0000_left.png": {
+      "frame": {
+        "x": 1608,
+        "y": 295,
+        "w": 211,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 211,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 211,
+        "h": 373
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "big 4.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "frames": {
+    "Untitled-10_0001_level-selection.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 934,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 934,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 934,
+        "h": 706
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-11_0001_level-selection-copy.png": {
+      "frame": {
+        "x": 940,
+        "y": 2,
+        "w": 934,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 934,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 934,
+        "h": 706
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-10_0000_Ellipse-2.png": {
+      "frame": {
+        "x": 1878,
+        "y": 2,
+        "w": 132,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 132,
+        "h": 132
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-11_0000_Ellipse-2-copy-12.png": {
+      "frame": {
+        "x": 1878,
+        "y": 138,
+        "w": 132,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 132,
+        "h": 132
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-12_0000_Ellipse-2-copy-9.png": {
+      "frame": {
+        "x": 1878,
+        "y": 274,
+        "w": 132,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 132,
+        "h": 132
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-13_0000_Ellipse-2-copy-5.png": {
+      "frame": {
+        "x": 1878,
+        "y": 410,
+        "w": 132,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 132,
+        "h": 132
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-12_0001_level-selection-copy.png": {
+      "frame": {
+        "x": 2,
+        "y": 712,
+        "w": 934,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 934,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 934,
+        "h": 706
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-13_0001_level-selection.png": {
+      "frame": {
+        "x": 940,
+        "y": 712,
+        "w": 934,
+        "h": 706
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 934,
+        "h": 706
+      },
+      "sourceSize": {
+        "w": 934,
+        "h": 706
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-14.png": {
+      "frame": {
+        "x": 2,
+        "y": 1422,
+        "w": 254,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 254,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 254,
+        "h": 90
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "level selection.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}

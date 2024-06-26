@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OutOfBulletScreen
+  m_Controller: {fileID: 9100000, guid: 4677d45f8057d8644850619e9ba8f2cf, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 384af84fa88d6c7419e221c1228eafb1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 11a6b669147e06f46abf5e1929dc82b4, type: 2}

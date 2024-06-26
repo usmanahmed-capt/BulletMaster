@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"013d3f90-e50f-492f-9786-c9594e21f460\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdTimer\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 20\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"5a1a6d8e-0e95-47ea-b3ba-8e88ab6b0c1d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"IsBigBannerOnAdmob\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"5e4a5634-b00c-4d4d-b1bd-c72fec9b5855\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"FirsTimeLevelOnevalue\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 0\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"013d3f90-e50f-492f-9786-c9594e21f460\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdTimer\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 20\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"5a1a6d8e-0e95-47ea-b3ba-8e88ab6b0c1d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"IsBigBannerOnAdmob\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"5e4a5634-b00c-4d4d-b1bd-c72fec9b5855\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"FirsTimeLevelOnevalue\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 0\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"fcb3736f-2149-4af1-aed6-60e2909a6b7a\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"3fc7e51b-8005-4341-b5d1-753be40df7fe\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-03-07T10:37:15Z\",\r\n    \"updatedAt\":
+    \"2024-03-07T10:37:15Z\"\r\n  }\r\n]"

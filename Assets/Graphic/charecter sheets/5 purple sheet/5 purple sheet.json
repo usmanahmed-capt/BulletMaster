@@ -1,0 +1,279 @@
+{
+  "frames": {
+    "Untitled-19_0007_cape.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 369,
+        "h": 456
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 369,
+        "h": 456
+      },
+      "sourceSize": {
+        "w": 369,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-19_0003_suite.png": {
+      "frame": {
+        "x": 2,
+        "y": 462,
+        "w": 279,
+        "h": 338
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 338
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 338
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-20_0005_whistle.png": {
+      "frame": {
+        "x": 2,
+        "y": 804,
+        "w": 51,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-20_0004_smile.png": {
+      "frame": {
+        "x": 2,
+        "y": 864,
+        "w": 69,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 39
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-20_0003_angry-.png": {
+      "frame": {
+        "x": 57,
+        "y": 804,
+        "w": 68,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 31
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-20_0002_2-angry.png": {
+      "frame": {
+        "x": 2,
+        "y": 907,
+        "w": 64,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 31
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-21.png": {
+      "frame": {
+        "x": 2,
+        "y": 942,
+        "w": 85,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 26
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-19_0000_Group-33.png": {
+      "frame": {
+        "x": 285,
+        "y": 462,
+        "w": 220,
+        "h": 303
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 303
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-19_0004_right-leg.png": {
+      "frame": {
+        "x": 285,
+        "y": 769,
+        "w": 79,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 237
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-19_0002_Group-42.png": {
+      "frame": {
+        "x": 368,
+        "y": 769,
+        "w": 79,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 236
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Untitled-19_0001_right-hand.png": {
+      "frame": {
+        "x": 375,
+        "y": 2,
+        "w": 60,
+        "h": 292
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 292
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 292
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "5 purple sheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

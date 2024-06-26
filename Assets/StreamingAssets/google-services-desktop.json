@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97711657498",
+    "project_id": "bbg--mr-bullet",
+    "storage_bucket": "bbg--mr-bullet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97711657498:android:6c61b3ee6e5d9c2924b7a3",
+        "android_client_info": {
+          "package_name": "com.bbg.superhero.bullet.shooter.spy.puzzle.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHbRosLV6oV045dzlqrLpdDpdXWHLp6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
